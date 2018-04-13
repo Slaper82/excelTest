@@ -1,0 +1,14 @@
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\obj\Debug\ExcelReaderTest.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\obj\Debug\ExcelReaderTest.Properties.Resources.resources
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\obj\Debug\ExcelReaderTest.csproj.GenerateResource.Cache
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\obj\Debug\ExcelReaderTest.csproj.CoreCompileInputs.cache
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\bin\Debug\ExcelReaderTest.exe.config
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\bin\Debug\ExcelReaderTest.exe
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\bin\Debug\ExcelReaderTest.pdb
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\bin\Debug\ExcelDataReader.dll
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\bin\Debug\ExcelDataReader.xml
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\obj\Debug\ExcelReaderTest.exe
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\obj\Debug\ExcelReaderTest.pdb
+C:\Users\Przemek\source\repos\ExcelReaderTest\ExcelReaderTest\obj\Debug\ExcelReaderTest.Main.resources
